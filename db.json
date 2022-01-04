@@ -25,18 +25,18 @@
   "technicians": [
     {
       "id": 1,
-      "firstname": "Alex",
-      "lastname": "Muriuki"
+      "firstName": "Alex",
+      "lastName": "Muriuki"
     },
     {
       "id": 2,
-      "firstname": "Grace",
-      "lastname": "Kippara"
+      "firstName": "Grace",
+      "lastName": "Kippara"
     },
     {
       "id": 3,
-      "firstname": "Allan",
-      "lastname": "Juma"
+      "firstName": "Allan",
+      "lastName": "Juma"
     }
   ]
 }
