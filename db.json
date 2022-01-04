@@ -4,21 +4,21 @@
       "id": 1,
       "message": "Changed harddrive on workstation 001",
       "attention": false,
-      "date": "02-01-2022",
+      "date": "01-01-2022",
       "technician": "Grace Kippara"
     },
     {
       "id": 2,
       "message": "Changed harddrive on workstation 002",
       "attention": true,
-      "date": "03-01-2022",
+      "date": "01-02-2022",
       "technician": "Allan Juma"
     },
     {
       "id": 3,
       "message": "Changed harddrive on workstation 003",
       "attention": false,
-      "date": "03-01-2022",
+      "date": "01-03-2022",
       "technician": "Alex Muriuki"
     }
   ],
@@ -37,6 +37,16 @@
       "id": 3,
       "firstName": "Allan",
       "lastName": "Juma"
+    },
+    {
+      "firstName": "Eric",
+      "lastName": "Huang",
+      "id": 4
+    },
+    {
+      "firstName": "James",
+      "lastName": "Waituto",
+      "id": 5
     }
   ]
 }
