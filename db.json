@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed harddrive on workstation 001",
+      "attention": false,
+      "date": "02-01-2022",
+      "technician": "Grace Kippara"
+    },
+    {
+      "id": 2,
+      "message": "Changed harddrive on workstation 002",
+      "attention": true,
+      "date": "03-01-2022",
+      "technician": "Allan Juma"
+    },
+    {
+      "id": 3,
+      "message": "Changed harddrive on workstation 003",
+      "attention": false,
+      "date": "03-01-2022",
+      "technician": "Alex Muriuki"
+    }
+  ],
+  "technicians": [
+    {
+      "id": 1,
+      "firstname": "Alex",
+      "lastname": "Muriuki"
+    },
+    {
+      "id": 2,
+      "firstname": "Grace",
+      "lastname": "Kippara"
+    },
+    {
+      "id": 3,
+      "firstname": "Allan",
+      "lastname": "Juma"
+    }
+  ]
+}
