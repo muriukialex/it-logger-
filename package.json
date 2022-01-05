@@ -23,14 +23,11 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-<<<<<<< HEAD
     "extends": [
       "react-app",
       "react-app/jest"
     ]
-=======
     "extends": "react-app"
->>>>>>> 45fc14ed9bf140f0dd3138b3770e0e651fdfde50
   },
   "browserslist": {
     "production": [
@@ -45,15 +42,12 @@
     ]
   },
   "devDependencies": {
-<<<<<<< HEAD
     "concurrently": "^7.0.0",
     "json-server": "^0.17.0"
   },
   "proxy": "http://localhost:9000/"
-=======
     "concurrently": "^4.1.0",
     "json-server": "^0.15.0"
   },
   "proxy": "http://localhost:5000"
->>>>>>> 45fc14ed9bf140f0dd3138b3770e0e651fdfde50
 }
