@@ -8,6 +8,11 @@ import M from "materialize-css/dist/js/materialize.min.js"
 import SearchBar from "./components/layout/SearchBar"
 import Logs from "./components/Logs/Logs"
 import AddBtn from "./components/layout/AddBtn"
+import AddLogModal from "./components/Logs/AddLogModal"
+import EditLogModal from "./components/Logs/EditLogModal"
+import AddTechModal from "./components/techs/AddTechModal"
+import TechListModal from "./components/techs/TechListModal"
+import TechItem from "./components/techs/TechItem"
 
 function App() {
   useEffect(() => {
@@ -18,6 +23,11 @@ function App() {
       <SearchBar />
       <div className="container">
         <AddBtn />
+        <AddLogModal />
+        <EditLogModal />
+        <AddTechModal />
+        <TechListModal />
+        <TechItem />
         <Logs />
       </div>
     </div>
