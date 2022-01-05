@@ -1,4 +1,5 @@
-import React, { useEffect, useState } from "react"
+import React, { useEffect } from 'react';
+import { getLogs } from '../../actions/logActions';
 
 //components
 import LogItem from "./LogItem"
