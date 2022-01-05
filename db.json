@@ -1,52 +1,49 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed harddrive on workstation 001",
+      "message": "Changed network card in server 007",
       "attention": false,
-      "date": "01-01-2022",
-      "technician": "Grace Kippara"
+      "tech": "Sam Smith",
+      "date": "2019-05-31T15:46:10.179Z",
+      "id": 1
     },
     {
       "id": 2,
-      "message": "Changed harddrive on workstation 002",
-      "attention": true,
-      "date": "01-02-2022",
-      "technician": "Allan Juma"
+      "message": "Fixed hard drive on workstation 002",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-05-31T16:18:04.245Z"
     },
     {
-      "id": 3,
-      "message": "Changed harddrive on workstation 003",
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T15:46:48.690Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "Workstation 026 is up and running",
       "attention": false,
-      "date": "01-03-2022",
-      "technician": "Alex Muriuki"
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T19:57:35.544Z"
     }
   ],
-  "technicians": [
+  "techs": [
     {
       "id": 1,
-      "firstName": "Alex",
-      "lastName": "Muriuki"
+      "firstName": "John",
+      "lastName": "Doe"
     },
     {
       "id": 2,
-      "firstName": "Grace",
-      "lastName": "Kippara"
+      "firstName": "Sam",
+      "lastName": "Smith"
     },
     {
       "id": 3,
-      "firstName": "Allan",
-      "lastName": "Juma"
-    },
-    {
-      "firstName": "Eric",
-      "lastName": "Huang",
-      "id": 4
-    },
-    {
-      "firstName": "James",
-      "lastName": "Waituto",
-      "id": 5
+      "firstName": "Sara",
+      "lastName": "Wilson"
     }
   ]
 }
